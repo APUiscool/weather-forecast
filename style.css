@@ -5,9 +5,8 @@
 }
 
 #cityInput, #cityName, #inputContainer,button{
-    margin: 3px;
+    margin: 30px;
 padding:5px;
-    alignItems="CENTER"
 text-align:center;
 font-size:20px;
 font-weight:bold;

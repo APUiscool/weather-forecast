@@ -33,9 +33,9 @@ button{
 #weatherContainer{
     position: absolute;
     top: 70%;
-    left: 70%;
-    margin-right: -90%;
-    transform: translate(-50%, -50%);
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -75%);
     height: 300px;
     width: 1300px;
     background: none;
@@ -48,7 +48,7 @@ button{
     margin-right: -50%;
     transform: translate(-50%, -50%);
     height: 240px;
-    width: 1200px;
+    width: 600px;
     background: none;   
 }
 
